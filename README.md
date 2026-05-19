@@ -78,6 +78,8 @@ I design and manage robust server infrastructure — from VPS configuration, pro
 
 ### 📊 GitHub Stats
 
+> 🔒 Most of my work lives in private repos — client projects, internal tools, and production systems that can't be shared publicly. What you see here is just the tip of the iceberg.
+
 <p align="center">
   <img src="https://github-readme-stats-eta-six.vercel.app/api?username=dimas-renanda&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
