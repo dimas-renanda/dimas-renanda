@@ -79,7 +79,7 @@ I build modern applications and design robust server architectures — from hard
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimas-renanda&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=dimas-renanda&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
