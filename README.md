@@ -64,10 +64,13 @@ I build modern applications and design robust server architectures — from hard
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [tridom-pantry](https://github.com/dimas-renanda/tridom-pantry) | Flutter HTTP server app for order management with REST API & admin UI | Flutter, Dart, Hive |
-| [CNM-Flutter](https://github.com/dimas-renanda/CNM-Flutter) | Flutter mobile app | Flutter, Dart |
-| [crossradius-admin](https://github.com/dimas-renanda/crossradius-admin) | Admin panel for network/radius management | PHP |
-| [ciappbro](https://github.com/dimas-renanda/ciappbro) | PHP web application | PHP |
+| [tridom-pantry](https://github.com/dimas-renanda/tridom-pantry) | 🛒 Flutter HTTP server for order management with REST API & admin UI | Flutter, Dart, Hive |
+| [ipcam](https://github.com/dimas-renanda/ipcam) | 🎥 IP Camera management system — NVR integration & remote monitoring | Python, Networking |
+| [apisymfony](https://github.com/dimas-renanda/apisymfony) | ⚙️ RESTful API backend with Symfony PHP framework | PHP, Symfony |
+| [address-search-nextjs](https://github.com/dimas-renanda/address-search-nextjs) | 📍 Fast address search app built with Next.js | Next.js, React |
+| [crossradius-admin](https://github.com/dimas-renanda/crossradius-admin) | 🌐 Admin panel for RADIUS/hotspot network management | PHP |
+| [mongo-sql-hotel](https://github.com/dimas-renanda/mongo-sql-hotel) | 🏨 Hotel management with MongoDB + SQL integration | PHP, MongoDB |
+| [unvit.github.io](https://github.com/dimas-renanda/unvit.github.io) | 🌐 UNVIT project website on GitHub Pages | HTML, CSS |
 
 ---
 
@@ -77,7 +80,7 @@ I build modern applications and design robust server architectures — from hard
   <img src="https://github-readme-stats-eta-six.vercel.app/api?username=dimas-renanda&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-eta-six.vercel.app/api/top-langs/?username=dimas-renanda&layout=compact&theme=tokyonight&langs_count=8" />
+  <img src="https://github-readme-stats-eta-six.vercel.app/api/top-langs/?username=dimas-renanda&layout=compact&theme=tokyonight&langs_count=8&card_width=495" />
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimas-renanda&theme=tokyonight" />
