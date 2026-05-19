@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Dimas Renanda 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;DevOps+%26+IT+Solution;VPS+%7C+Proxy+%7C+Load+Balancer+Expert;IP+%26+Domain+Infrastructure+Management;Flutter+%7C+Node.js+%7C+Python+%7C+Go;Fast+Learner+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;DevOps+%26+IT+Solution;VPS+%7C+Proxy+%7C+Load+Balancer+Expert;IP+%26+Domain+Infrastructure+Management;IoT+%7C+Home+Assistant+%7C+MQTT+%7C+Mikrotik;Flutter+%7C+Node.js+%7C+Python+%7C+Go;Fast+Learner+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -53,7 +53,15 @@ I design and manage robust server infrastructure — from VPS configuration, pro
   <img src="https://img.shields.io/badge/-VPS-FF6600?style=flat&logo=linode&logoColor=white" />
 </p>
 
-#### 🗄️ Databases
+#### 🌐 Networking & IoT
+<p>
+  <img src="https://img.shields.io/badge/-Mikrotik-293239?style=flat&logo=mikrotik&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Home%20Assistant-41BDF5?style=flat&logo=homeassistant&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MQTT-660066?style=flat&logo=mqtt&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-IP%20Camera-333333?style=flat&logo=googlehome&logoColor=white" />
+</p>
+
 <p>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
@@ -124,9 +132,16 @@ I design and manage robust server infrastructure — from VPS configuration, pro
 
 🌐  Networking
     ├── Network Design & Architecture
-    ├── Firewall & Security Hardening
+    ├── Mikrotik Router & Firewall Configuration
     ├── VLAN, Switching & Routing
     └── VPN & Tunnel Configuration
+
+🧠  IoT & Home Automation
+    ├── Home Assistant Integration & Automation
+    ├── MQTT Broker & Device Communication
+    ├── IP Camera & NVR Management
+    ├── Scripting & Task Automation
+    └── Smart Home Networking & Security
 
 📱  Application Development
     ├── Flutter Cross-Platform Apps
