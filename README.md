@@ -46,9 +46,10 @@ I design and manage robust server infrastructure — from VPS configuration, pro
   <img src="https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HAProxy-0066CC?style=flat&logo=haproxy&logoColor=white" />
   <img src="https://img.shields.io/badge/-VPS-FF6600?style=flat&logo=linode&logoColor=white" />
 </p>
 
