@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Dimas Renanda 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;IT+Infrastructure+%26+DevOps+Expert;Flutter+%7C+Node.js+%7C+Python+%7C+Go;VPS+%7C+Proxmox+%7C+High+Availability+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;DevOps+%26+IT+Solution;VPS+%7C+Proxy+%7C+Load+Balancer+Expert;IP+%26+Domain+Infrastructure+Management;Flutter+%7C+Node.js+%7C+Python+%7C+Go;Fast+Learner+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,13 +17,14 @@
 
 ### 🧑‍💻 About Me
 
-I'm a passionate **Full-Stack Developer & IT Infrastructure Engineer** based in 🇮🇩 Indonesia.  
-I build modern applications and design robust server architectures — from hardware to software and networking.
+I'm a passionate **Full-Stack Developer & IT Solution** based in 🇮🇩 Indonesia.  
+I design and manage robust server infrastructure — from VPS configuration, proxy setup, to full-scale load balancing and domain management.
 
 - 🏢 Working at **PT Tri Dominitama** — Cold Chain Logistics
-- 🛠️ Experienced in **server clustering, high availability & fault-tolerant systems**
-- 🚀 Love automating things and building reliable production-grade infrastructure
-- 📚 Always learning — currently exploring AI automation & trading systems
+- 🖥️ Expert in **VPS configuration, reverse proxy, IP & domain management**
+- ⚖️ Experienced in **load balancing, high availability & fault-tolerant infrastructure**
+- 🔧 DevOps practitioner — CI/CD, containerization, and automated deployments
+- 📚 Fast learner — always exploring new tech and building reliable production systems
 
 ---
 
@@ -95,18 +96,29 @@ I build modern applications and design robust server architectures — from hard
 ### 🌐 Expertise
 
 ```
-🖥️  Server & Infrastructure
+🖥️  VPS & Server Infrastructure
+    ├── VPS Setup, Hardening & Optimization
     ├── Proxmox Virtualization & Clustering
-    ├── High Availability & Load Balancing
+    ├── High Availability & Failover Systems
+    └── Server Monitoring & Performance Tuning
+
+🔀  Proxy & Load Balancing
     ├── Nginx Reverse Proxy & SSL Termination
-    ├── Redis Caching & Pub/Sub
-    └── VPS Management & Hardening
+    ├── Load Balancer Configuration (HAProxy/Nginx)
+    ├── Multi-server Traffic Distribution
+    └── CDN & Caching Optimization
+
+🌐  IP & Domain Management
+    ├── DNS Configuration & Zone Management
+    ├── IP Routing & Subnet Planning
+    ├── Domain & SSL Certificate Management
+    └── DDNS & Dynamic IP Handling
 
 🌐  Networking
-    ├── Network Design & Configuration
+    ├── Network Design & Architecture
     ├── Firewall & Security Hardening
-    ├── DNS & Domain Management
-    └── VLAN & Switching
+    ├── VLAN, Switching & Routing
+    └── VPN & Tunnel Configuration
 
 📱  Application Development
     ├── Flutter Cross-Platform Apps
