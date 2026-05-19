@@ -62,7 +62,6 @@ I design and manage robust server infrastructure — from VPS configuration, pro
   <img src="https://img.shields.io/badge/-IP%20Camera-333333?style=flat&logo=googlehome&logoColor=white" />
 </p>
 
-<p>
 #### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
