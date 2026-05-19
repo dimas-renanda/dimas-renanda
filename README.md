@@ -74,8 +74,10 @@ I build modern applications and design robust server architectures — from hard
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eta-six.vercel.app/api?username=dimas-renanda&show_icons=true&theme=tokyonight&count_private=true" height="160" />
-  <img src="https://github-readme-stats-eta-six.vercel.app/api/top-langs/?username=dimas-renanda&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats-eta-six.vercel.app/api?username=dimas-renanda&show_icons=true&theme=tokyonight&count_private=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-eta-six.vercel.app/api/top-langs/?username=dimas-renanda&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimas-renanda&theme=tokyonight" />
