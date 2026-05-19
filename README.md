@@ -48,6 +48,7 @@ I design and manage robust server infrastructure — from VPS configuration, pro
   <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HAProxy-0066CC?style=flat&logo=haproxy&logoColor=white" />
   <img src="https://img.shields.io/badge/-VPS-FF6600?style=flat&logo=linode&logoColor=white" />
 </p>
 
@@ -122,9 +123,15 @@ I design and manage robust server infrastructure — from VPS configuration, pro
 
 📱  Application Development
     ├── Flutter Cross-Platform Apps
-    ├── REST API Design (Node.js / Python / Go)
-    ├── PHP Backend & CMS
+    ├── REST API Design (FastAPI / Node.js / Go)
+    ├── Backend Development (Python / Go / PHP)
     └── Database Design & Optimization
+
+⚡  Caching & Messaging
+    ├── Redis Cache Management & Strategy
+    ├── Redis Pub/Sub & Queue
+    ├── Session & Key-Value Store
+    └── Cache Invalidation & TTL Optimization
 ```
 
 ---
