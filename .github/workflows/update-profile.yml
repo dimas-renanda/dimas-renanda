@@ -1,0 +1,57 @@
+name: Update Profile README
+
+on:
+  schedule:
+    - cron: '0 9 * * *'  # 16:00 WIB (UTC+7)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repo
+        uses: actions/checkout@v4
+
+      - name: Setup Git
+        run: |
+          git config user.name "dimas-renanda"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Fetch latest TIL notes from til-research
+        run: |
+          # Clone til-research to get latest notes list
+          git clone --depth=10 https://github.com/dimas-renanda/til-research.git /tmp/til-research
+
+          # Get last 5 notes
+          FILES=$(find /tmp/til-research -name "*.md" ! -name "README.md" | sort -r | head -5)
+          LIST=""
+          for f in $FILES; do
+            FNAME=$(basename "$f" .md)
+            DIR=$(dirname "$f" | sed 's|/tmp/til-research/||')
+            LIST="${LIST}- [${FNAME}](https://github.com/dimas-renanda/til-research/blob/main/${DIR}/$(basename $f)) \`${DIR}\`\n"
+          done
+
+          # Update README between markers
+          python3 - <<PYEOF
+          import re
+          with open('README.md', 'r') as f:
+              content = f.read()
+          new_section = "<!-- TIL_LIST_START -->\n${LIST}\n<!-- TIL_LIST_END -->"
+          content = re.sub(
+              r'<!-- TIL_LIST_START -->.*?<!-- TIL_LIST_END -->',
+              new_section,
+              content,
+              flags=re.DOTALL
+          )
+          with open('README.md', 'w') as f:
+              f.write(content)
+          PYEOF
+
+      - name: Commit and push if changed
+        run: |
+          git add README.md
+          git diff --staged --quiet || git commit -m "docs: update profile README [$(date +%Y-%m-%d)]"
+          git push
