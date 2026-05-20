@@ -31,10 +31,10 @@
 
 ---
 
-## 🔬 Latest Research & Notes
+## 📝 Latest Notes
 
 <!-- TIL_LIST_START -->
-
+<!-- auto-updated by GitHub Actions -->
 <!-- TIL_LIST_END -->
 
 ---
@@ -45,4 +45,4 @@
 
 ---
 
-<p align="center"><sub>Updated automatically · Powered by GitHub Actions</sub></p>
+<p align="center"><sub>Always building something new.</sub></p>
