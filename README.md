@@ -155,5 +155,10 @@ I build cross-platform mobile apps, design server infrastructure, and explore AI
 ---
 
 <p align="center">
+  <i>Open for collaborations, freelance projects, or just a casual chat about tech.<br>
+  Either way, I'd love to hear from you. Ping me anytime! 🐧</i>
+</p>
+
+<p align="center">
   <i>⭐ If you find my work helpful, feel free to star my repos!</i>
 </p>
