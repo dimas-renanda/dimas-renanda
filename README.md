@@ -22,7 +22,7 @@ I build cross-platform mobile apps, design server infrastructure, and explore AI
 
 - 🏢 Working at **PT Tri Dominitama** — Cold Chain Logistics
 - 📱 Mobile-first developer — **Flutter & Dart** for cross-platform apps
-- 🖥️ Expert in **VPS configuration, reverse proxy, IP & domain management**
+- 🖥️ Experienced in **VPS configuration, reverse proxy, IP & domain management**
 - 🔧 DevOps practitioner — CI/CD, containerization, and automated deployments
 - 📚 Fast learner — always exploring new tech and building reliable production systems
 
@@ -38,6 +38,7 @@ I build cross-platform mobile apps, design server infrastructure, and explore AI
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
 </p>
 
@@ -54,9 +55,12 @@ I build cross-platform mobile apps, design server infrastructure, and explore AI
 #### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white" />
 </p>
 
 ---
@@ -115,6 +119,13 @@ I build cross-platform mobile apps, design server infrastructure, and explore AI
     ├── DNS Configuration & Zone Management
     ├── Domain & SSL Certificate Management
     └── DDNS & Dynamic IP Handling
+
+🤖  IoT, Networking & Automation
+    ├── IoT Device Integration & Protocols (MQTT, HTTP)
+    ├── Home Automation & Smart Systems
+    ├── Network Design, Firewall & VPN
+    ├── Scripting & Task Automation
+    └── IP Camera & NVR Management
 
 ⚙️  Application Development
     ├── REST API Design (Node.js / Python / Go)
