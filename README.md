@@ -91,7 +91,7 @@ I build cross-platform mobile apps, design server infrastructure, and explore AI
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimas-renanda&theme=tokyonight" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimas-renanda&theme=tokyonight&title_color=58a6ff" width="100%"/>
 </p>
 
 <p align="center">
@@ -100,7 +100,7 @@ I build cross-platform mobile apps, design server infrastructure, and explore AI
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dimas-renanda&theme=tokyonight&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+  <img src="https://streak-stats.demolab.com?user=dimas-renanda&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
