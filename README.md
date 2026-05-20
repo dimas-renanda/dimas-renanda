@@ -25,6 +25,7 @@ I build cross-platform mobile apps, design server infrastructure, and explore AI
 - 🖥️ Experienced in **VPS configuration, reverse proxy, IP & domain management**
 - 🔧 DevOps practitioner — CI/CD, containerization, and automated deployments
 - 📚 Fast learner — always exploring new tech and building reliable production systems
+- 🤖 Currently experimenting with AI agents, language models, and OpenClaw workflows
 
 ---
 
