@@ -34,7 +34,7 @@
 ## 🔬 Latest Research & Notes
 
 <!-- TIL_LIST_START -->
-<!-- auto-updated by GitHub Actions -->
+
 <!-- TIL_LIST_END -->
 
 ---
