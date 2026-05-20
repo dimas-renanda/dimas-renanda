@@ -46,7 +46,11 @@ I build cross-platform mobile apps, design server infrastructure, and explore AI
 <p>
   <img src="https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Red%20Hat-EE0000?style=flat&logo=redhat&logoColor=white" />
   <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-VPS-FF6600?style=flat&logo=linode&logoColor=white" />
