@@ -1,164 +1,48 @@
-<h1 align="center">Hi there, I'm Dimas Renanda 👋</h1>
+# Hi there, I'm Dimas Renanda 👋
+
+> DevOps Engineer & Full-Stack Developer — building things that actually work.
+
+---
+
+## 🛠️ Tech Stack
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;DevOps+%26+IT+Solution;VPS+%7C+Proxy+%7C+Load+Balancer+Expert;IP+%26+Domain+Infrastructure+Management;IoT+%7C+Home+Assistant+%7C+MQTT+%7C+Mikrotik;Flutter+%7C+Node.js+%7C+Python+%7C+Go;Fast+Learner+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dimas-renanda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimas-renanda&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dimasrenanda">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/dimas-renanda">
-    <img src="https://img.shields.io/github/followers/dimas-renanda?style=social" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=dimas-renanda&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🔬 Latest Research & Notes
 
-I'm a passionate **Full-Stack Developer & IT Solution** based in 🇮🇩 Indonesia.  
-I design and manage robust server infrastructure — from VPS configuration, proxy setup, to full-scale load balancing and domain management.
-
-- 🏢 Working at **PT Tri Dominitama** — Cold Chain Logistics
-- 🖥️ Expert in **VPS configuration, reverse proxy, IP & domain management**
-- ⚖️ Experienced in **load balancing, high availability & fault-tolerant infrastructure**
-- 🔧 DevOps practitioner — CI/CD, containerization, and automated deployments
-- 📚 Fast learner — always exploring new tech and building reliable production systems
+<!-- TIL_LIST_START -->
+<!-- auto-updated by GitHub Actions -->
+<!-- TIL_LIST_END -->
 
 ---
 
-### 🔧 Tech Stack
+## 🌐 Find Me
 
-#### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
-</p>
-
-#### 🏗️ Infrastructure & DevOps
-<p>
-  <img src="https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VPS-FF6600?style=flat&logo=linode&logoColor=white" />
-</p>
-
-#### 🌐 Networking & IoT
-<p>
-  <img src="https://img.shields.io/badge/-Mikrotik-293239?style=flat&logo=mikrotik&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Home%20Assistant-41BDF5?style=flat&logo=homeassistant&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MQTT-660066?style=flat&logo=mqtt&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/-IP%20Camera-333333?style=flat&logo=googlehome&logoColor=white" />
-</p>
-
-#### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Microsoft%20SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white" />
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-dimas--renanda.github.io-blue?style=flat&logo=github)](https://dimas-renanda.github.io)
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [tridom-pantry](https://github.com/dimas-renanda/tridom-pantry) | 🛒 Flutter HTTP server for order management with REST API & admin UI | Flutter, Dart, Hive |
-| [ipcam](https://github.com/dimas-renanda/ipcam) | 🎥 IP Camera management system — NVR integration & remote monitoring | Python, Networking |
-| [apisymfony](https://github.com/dimas-renanda/apisymfony) | ⚙️ RESTful API backend with Symfony PHP framework | PHP, Symfony |
-| [address-search-nextjs](https://github.com/dimas-renanda/address-search-nextjs) | 📍 Fast address search app built with Next.js | Next.js, React |
-| [crossradius-admin](https://github.com/dimas-renanda/crossradius-admin) | 🌐 Admin panel for RADIUS/hotspot network management | PHP |
-| [mongo-sql-hotel](https://github.com/dimas-renanda/mongo-sql-hotel) | 🏨 Hotel management with MongoDB + SQL integration | PHP, MongoDB |
-| [unvit.github.io](https://github.com/dimas-renanda/unvit.github.io) | 🌐 UNVIT project website on GitHub Pages | HTML, CSS |
-
----
-
-### 📊 GitHub Stats
-
-> 🔒 Most of my work lives in private repos — client projects, internal tools, and production systems that can't be shared publicly. What you see here is just the tip of the iceberg.
-
-<p align="center">
-  <img src="https://github-readme-stats-eta-six.vercel.app/api?username=dimas-renanda&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-eta-six.vercel.app/api/top-langs/?username=dimas-renanda&layout=compact&theme=tokyonight&langs_count=8&card_width=495" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimas-renanda&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dimas-renanda&theme=tokyonight&hide_border=false" />
-</p>
-
----
-
-### 🌐 Expertise
-
-```
-🖥️  VPS & Server Infrastructure
-    ├── VPS Setup, Hardening & Optimization
-    ├── Proxmox Virtualization & Clustering
-    ├── High Availability & Failover Systems
-    └── Server Monitoring & Performance Tuning
-
-🔀  Proxy & Load Balancing
-    ├── Nginx Reverse Proxy & SSL Termination
-    ├── Load Balancer Configuration (HAProxy/Nginx)
-    ├── Multi-server Traffic Distribution
-    └── CDN & Caching Optimization
-
-🌐  IP & Domain Management
-    ├── DNS Configuration & Zone Management
-    ├── IP Routing & Subnet Planning
-    ├── Domain & SSL Certificate Management
-    └── DDNS & Dynamic IP Handling
-
-🌐  Networking
-    ├── Network Design & Architecture
-    ├── Mikrotik Router & Firewall Configuration
-    ├── VLAN, Switching & Routing
-    └── VPN & Tunnel Configuration
-
-🧠  IoT & Home Automation
-    ├── Home Assistant Integration & Automation
-    ├── MQTT Broker & Device Communication
-    ├── IP Camera & NVR Management
-    ├── Scripting & Task Automation
-    └── Smart Home Networking & Security
-
-📱  Application Development
-    ├── Flutter Cross-Platform Apps
-    ├── REST API Design (FastAPI / Node.js / Go)
-    ├── Backend Development (Python / Go / PHP)
-    └── Database Design & Optimization
-
-⚡  Caching & Messaging
-    ├── Redis Cache Management & Strategy
-    ├── Redis Pub/Sub & Queue
-    ├── Session & Key-Value Store
-    └── Cache Invalidation & TTL Optimization
-```
-
----
-
-<p align="center">
-  <i>⭐ If you find my work helpful, feel free to star my repos!</i>
-</p>
+<p align="center"><sub>Updated automatically · Powered by GitHub Actions</sub></p>
