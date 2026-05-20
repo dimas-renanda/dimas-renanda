@@ -100,7 +100,7 @@ I build cross-platform mobile apps, design server infrastructure, and explore AI
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dimas-renanda&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=dimas-renanda&theme=tokyonight&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 </p>
 
 ---
