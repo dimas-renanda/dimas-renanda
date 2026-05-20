@@ -87,7 +87,7 @@ I build cross-platform mobile apps, design server infrastructure, and explore AI
 ### 📊 GitHub Stats
 
 <p align="center">
-  <i>🔒 Most of my work lives in private repos — client projects, internal tools, and production systems that can't be shared publicly.</i>
+  <sub><sup>Most of my work lives in private repos — client projects, internal tools, and production systems that can't be shared publicly.</sup></sub>
 </p>
 
 <p align="center">
