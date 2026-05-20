@@ -81,6 +81,10 @@ I build cross-platform mobile apps, design server infrastructure, and explore AI
 ### 📊 GitHub Stats
 
 <p align="center">
+  <i>🔒 Most of my work lives in private repos — client projects, internal tools, and production systems that can't be shared publicly. What you see here is just the tip of the iceberg.</i>
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimas-renanda&theme=tokyonight" width="100%"/>
 </p>
 
