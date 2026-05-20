@@ -21,8 +21,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dimas-renanda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimas-renanda&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimas-renanda&theme=tokyonight" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dimas-renanda&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dimas-renanda&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
