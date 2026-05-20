@@ -38,7 +38,8 @@
 ## 📝 Latest Notes
 
 <!-- TIL_LIST_START -->
-<!-- auto-updated by GitHub Actions -->
+- [2026-05-20](https://github.com/dimas-renanda/til-research/blob/main/misc/2026-05-20.md) `misc`
+
 <!-- TIL_LIST_END -->
 
 ---
