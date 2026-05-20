@@ -95,7 +95,7 @@ I build cross-platform mobile apps, design server infrastructure, and explore AI
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dimas-renanda&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dimas-renanda&theme=tokyonight&title_color=58a6ff" height="160"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dimas-renanda&theme=tokyonight" height="160"/>
 </p>
 
