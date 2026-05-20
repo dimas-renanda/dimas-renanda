@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Dimas Renanda 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&width=500&lines=Mobile+%26+Full-Stack+Developer;Flutter+%7C+TypeScript+%7C+Python+%7C+Go;Building+things+that+work+%F0%9F%9B%A0%EF%B8%8F;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&width=500&lines=Mobile+%26+Full-Stack+Developer;Flutter+%7C+JavaScript+%7C+Python+%7C+Go;Building+things+that+work+%F0%9F%9B%A0%EF%B8%8F;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
 ---
