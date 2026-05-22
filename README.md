@@ -99,6 +99,8 @@ I build cross-platform mobile apps, design server infrastructure, and explore AI
   <img src="https://img.shields.io/badge/Dart%20%2F%20Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
 <p align="center">
