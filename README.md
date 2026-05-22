@@ -95,7 +95,7 @@ I build cross-platform mobile apps, design server infrastructure, and explore AI
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimas-renanda&layout=compact&theme=tokyonight&langs_count=3&hide=php,python,html,css,shell,dockerfile,makefile,c%2B%2B,c" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimas-renanda&layout=compact&theme=tokyonight&langs_count=6&hide=php,html,css,shell,makefile,dockerfile" height="160"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dimas-renanda&theme=tokyonight" height="160"/>
 </p>
 
