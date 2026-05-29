@@ -109,12 +109,12 @@ I build cross-platform mobile apps, design server infrastructure, and explore AI
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dimas-renanda&theme=tokyonight" height="160"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=dimas-renanda&theme=tokyonight&hide_border=false" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dimasrenanda&theme=tokyonight" alt="GitHub Streak">
-</p>
+</p> -->
 ---
 
 ### 🌐 Expertise
