@@ -112,7 +112,9 @@ I build cross-platform mobile apps, design server infrastructure, and explore AI
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dimas-renanda&theme=tokyonight&hide_border=false" />
 </p>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dimasrenanda&theme=tokyonight" alt="GitHub Streak">
+</p>
 ---
 
 ### 🌐 Expertise
