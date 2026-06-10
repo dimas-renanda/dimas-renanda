@@ -1,0 +1,116 @@
+{
+  "agents": {
+    "defaults": {
+      "model": "github-copilot/gpt-5-mini",
+      "workspace": "/Users/user/.openclaw/workspace",
+      "models": {
+        "ollama/jaahas/qwen3.5-uncensored:9b": {},
+        "ollama/llama2-uncensored:7b": {},
+        "ollama/llama3.2:latest": {},
+        "ollama/phi3:mini": {},
+        "github-copilot/claude-opus-4.7": {
+          "alias": "opus4.7"
+        },
+        "github-copilot/claude-sonnet-4.6": {
+          "alias": "claude-sonnet4.6-standard"
+        },
+        "github-copilot/claude-haiku-4.5": {
+          "alias": "claude-haiku4.5-light"
+        },
+        "github-copilot/claude-opus-4.6": {
+          "alias": "claude-opus4.6-premium"
+        },
+        "github-copilot/claude-opus-4.5": {
+          "alias": "opus4.5"
+        },
+        "github-copilot/claude-sonnet-4": {
+          "alias": "sonnet4"
+        },
+        "github-copilot/claude-sonnet-4.5": {
+          "alias": "sonnet4.5"
+        },
+        "github-copilot/gemini-2.5-pro": {
+          "alias": "gemini2.5"
+        },
+        "github-copilot/gemini-3.1-pro-preview": {
+          "alias": "gemini3.1-standard"
+        },
+        "github-copilot/gemini-3-flash-preview": {
+          "alias": "gemini3flash-light"
+        },
+        "github-copilot/gpt-4.1": {
+          "alias": "gpt4.1-light"
+        },
+        "github-copilot/gpt-4o": {
+          "alias": "gpt4o"
+        },
+        "github-copilot/gpt-5": {
+          "alias": "gpt5"
+        },
+        "github-copilot/gpt-5-mini": {
+          "alias": "gpt5-mini"
+        },
+        "github-copilot/gpt-5.1": {
+          "alias": "gpt5.1"
+        },
+        "github-copilot/gpt-5.2": {
+          "alias": "gpt5.2-standard"
+        },
+        "github-copilot/gpt-5.3-codex": {
+          "alias": "gpt5.3"
+        },
+        "github-copilot/gpt-5.4": {
+          "alias": "gpt5.4-standard"
+        },
+        "github-copilot/gpt-5.4-mini": {
+          "alias": "gpt5.4mini-light"
+        },
+        "github-copilot/gpt-5.5": {
+          "alias": "gpt5.5"
+        },
+        "github-copilot/gpt-5.1-codex": {
+          "alias": "codex-standard"
+        },
+        "github-copilot/gpt-5.1-codex-max": {
+          "alias": "codex-max-executive"
+        },
+        "github-copilot/gpt-5.1-codex-mini": {
+          "alias": "codex-mini"
+        },
+        "github-copilot/gpt-5.2-codex": {
+          "alias": "codex5.2"
+        },
+        "github-copilot/grok-code-fast-1": {
+          "alias": "grok-standard"
+        }
+      },
+      "imageModel": "github-copilot/claude-sonnet-4.6"
+    }
+  },
+  "commands": {
+    "native": "auto",
+    "nativeSkills": "auto",
+    "ownerDisplay": "raw",
+    "restart": true
+  },
+  "gateway": {
+    "auth": {
+      "mode": "token",
+      "token": "ollama"
+    },
+    "bind": "loopback",
+    "mode": "local",
+    "port": 18789,
+    "tailscale": {
+      "mode": "off",
+      "resetOnExit": false
+    },
+    "controlUi": {
+      "allowInsecureAuth": true
+    }
+  },
+  "meta": {
+    "lastTouchedAt": "2026-06-01T15:33:21.923Z",
+    "lastTouchedVersion": "2026.5.12"
+  }
+}

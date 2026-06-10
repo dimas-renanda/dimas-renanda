@@ -1,0 +1,198 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-16T23:26:34.163Z",
+  "entries": {
+    "memory:memory/2026-05-14.md:1:49": {
+      "key": "memory:memory/2026-05-14.md:1:49",
+      "path": "memory/2026-05-14.md",
+      "startLine": 1,
+      "endLine": 49,
+      "source": "memory",
+      "snippet": "# Memory — 14 Mei 2026 ## 🤖 DANTE TRADING SYSTEM — Setup Hari Ini ### Konteks - Dim ingin setup sistem trading futures semi-otomatis via Binance API - Modal awal: $77 USDT - Tujuan: scalping futures dengan TP kecil, SL ketat, confidence-based sizing - WA Dim: +6285155102105 (nomor utama untuk notifikasi trading) --- ### API Key Binance (DISIMPAN — JANGAN BOCOR) - File script: `/Users/user/.dante-trading/trade.py` - API Key & Secret sudah disimpan di dalam script tersebut - Permissions: Futures Trading ON, Withdrawals OFF - IP Restriction: Unrestricted (karena IP dinamis + Cloudflare 1.1.1.1 VPN) --- ### Status Setup - [x] Script trading Python dibuat di `~/.dante-trading/trade.py` - [",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.7968885660171509,
+      "maxScore": 0.41726737320423124,
+      "firstRecalledAt": "2026-05-14T22:32:18.735Z",
+      "lastRecalledAt": "2026-05-16T23:26:34.163Z",
+      "queryHashes": [
+        "382e7c40dd90",
+        "32bf6a9db649"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-17"
+      ],
+      "conceptTags": [
+        "semi-otomatis",
+        "confidence-based",
+        "users/user",
+        "dante-trading/trade.py",
+        "1.1.1.1",
+        "mei",
+        "dante",
+        "trading"
+      ]
+    },
+    "memory:memory/2026-05-14.md:40:70": {
+      "key": "memory:memory/2026-05-14.md:40:70",
+      "path": "memory/2026-05-14.md",
+      "startLine": 40,
+      "endLine": 70,
+      "source": "memory",
+      "snippet": "- **Hold time:** 30–90 menit, jangan hold semalaman - **Max loss/hari:** 3% total modal → stop trading - **No trade zone:** 00:00–08:00 WIB --- ### Kondisi Market 14 Mei 2026 - Sentimen: BEARISH (risk-off) - Katalis: Xi Jinping warning Trump soal Taiwan, BTC ETF outflow $635M - BTC: ~$79,700, di bawah $80K, hit 200-day MA resistance - Top SHORT candidates hari ini: SOL (-4.7%), HYPE (-9.56% 7D), ZEC (-4.65%) - Top LONG: DOGE (+1% relative strength), TRX (+0.43%) --- ### Cron Job Setup - Frekuensi: tiap 30 menit - Aktif: 15:00–23:30 WIB - Kirim ke WA: +6285155102105 - Format: signal simpel 1 coin terbaik, confidence ≥65%, format YES/NO - Pernah timeout — sudah difix timeout 300s --- ###",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.7180927455425262,
+      "maxScore": 0.36101262271404266,
+      "firstRecalledAt": "2026-05-14T22:32:18.735Z",
+      "lastRecalledAt": "2026-05-16T23:26:34.163Z",
+      "queryHashes": [
+        "382e7c40dd90",
+        "32bf6a9db649"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-17"
+      ],
+      "conceptTags": [
+        "loss/hari",
+        "risk-off",
+        "200-day",
+        "4.7",
+        "9.56",
+        "4.65",
+        "0.43",
+        "yes/no"
+      ]
+    },
+    "memory:memory/2026-05-16.md:41:74": {
+      "key": "memory:memory/2026-05-16.md:41:74",
+      "path": "memory/2026-05-16.md",
+      "startLine": 41,
+      "endLine": 74,
+      "source": "memory",
+      "snippet": "- BTC gatekeeper: LONG bias → cari LONG, SHORT bias → cari SHORT, NEUTRAL → skip ### Bug yang sudah difix - Grace period: bot tidak boleh close sebelum 5 menit hold - Stop hour: sudah fix ke 23:00 WIB (sebelumnya 17:00 menyebabkan bot exit otomatis) - State sync: entry manual lewat trade.py harus sync ke scalp_state.json ### Kondisi market malam ini (21:00-22:00 WIB) - BTC turun dari $81K ke ~$79K sore hari - Semua altcoin RSI di bawah 40 (oversold) - Volume sangat sepi - BTC bias: SHORT - Bot sedang OFF (dimatikan Dim) ### Keputusan Dim - Semua bot dan sinyal dimatikan jam ~22:00 WIB - Dim minta cari setup SHORT terakhir → APT SHORT masuk, kena SL - Dim minta carikan setup lagi sebelum t",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3776249229907989,
+      "maxScore": 0.3776249229907989,
+      "firstRecalledAt": "2026-05-16T05:07:29.167Z",
+      "lastRecalledAt": "2026-05-16T05:07:29.167Z",
+      "queryHashes": [
+        "c3e54e71f5a5"
+      ],
+      "recallDays": [
+        "2026-05-16"
+      ],
+      "conceptTags": [
+        "trade.py",
+        "scalp-state.json",
+        "00-22",
+        "btc",
+        "gatekeeper",
+        "bias",
+        "cari",
+        "neutral"
+      ]
+    },
+    "memory:memory/2026-05-16.md:1:48": {
+      "key": "memory:memory/2026-05-16.md:1:48",
+      "path": "memory/2026-05-16.md",
+      "startLine": 1,
+      "endLine": 48,
+      "source": "memory",
+      "snippet": "# Memory — 2026-05-16 ## Trading Session Recap (2026-05-15 malam - 2026-05-16 dini hari) ### Balance - Start hari: $77.30 - Akhir malam: $74.00 (estimasi setelah APT SHORT loss) ### Trades yang terjadi - XRP + LINK overnight → rugi -$0.94 (ditutup jam 05:36 WIB) - SOL LONG → +$0.20 - BNB LONG → +$0.34 - ADA LONG → -$0.25 (timeout) - DOGE LONG → +$0.37 - BNB LONG ke-2 → -$0.28 (SL) - FET LONG → -$0.06 - BTC LONG → -$0.41 - BNB LONG (grace period bug) → -$0.085 (close 0 menit, bug state) - APT SHORT → -$0.86 (SL kena dead cat bounce) ### Bot Trading — DANTE - Script: `/Users/user/.dante-trading/scalp_monitor.py` - Python: `python3.13` - Trade script: `/Users/user/.dante-trading/trade.py` -",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.7660847485065461,
+      "maxScore": 0.4034624844789505,
+      "firstRecalledAt": "2026-05-16T05:07:29.167Z",
+      "lastRecalledAt": "2026-05-16T23:26:34.163Z",
+      "queryHashes": [
+        "c3e54e71f5a5",
+        "32bf6a9db649"
+      ],
+      "recallDays": [
+        "2026-05-16",
+        "2026-05-17"
+      ],
+      "conceptTags": [
+        "77.30",
+        "74.00",
+        "0.94",
+        "0.20",
+        "0.34",
+        "0.25",
+        "0.37",
+        "ke-2"
+      ]
+    },
+    "memory:memory/2026-05-16.md:72:83": {
+      "key": "memory:memory/2026-05-16.md:72:83",
+      "path": "memory/2026-05-16.md",
+      "startLine": 72,
+      "endLine": 83,
+      "source": "memory",
+      "snippet": "- Prime hours trading: 19:00-23:00 WIB (US session) - Reminder cincau sudah dihapus (Dim sudah ambil) ### Mandate trading (17 Mei 2026) - Dim menyerahkan pengelolaan dana trading penuh ke DANTE - Balance stop: $65 — kalau nyentuh ini, STOP semua dan lapor Dim - Strategi: Scalping + Swing (pilih sesuai kondisi market) - Cron: DANTE Full Auto Trading (tiap 5 menit) - Fee-aware: min profit setelah fee $0.15 per trade - Quick TP: close di 0.6% profit kalau momentum melemah - Trailing stop ke breakeven aktif di 0.4% profit",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.41172135174274443,
+      "maxScore": 0.41172135174274443,
+      "firstRecalledAt": "2026-05-16T23:26:34.163Z",
+      "lastRecalledAt": "2026-05-16T23:26:34.163Z",
+      "queryHashes": [
+        "32bf6a9db649"
+      ],
+      "recallDays": [
+        "2026-05-17"
+      ],
+      "conceptTags": [
+        "00-23",
+        "fee-aware",
+        "0.15",
+        "0.6",
+        "0.4",
+        "prime",
+        "hours",
+        "trading"
+      ]
+    },
+    "memory:memory/2026-05-16.md:41:78": {
+      "key": "memory:memory/2026-05-16.md:41:78",
+      "path": "memory/2026-05-16.md",
+      "startLine": 41,
+      "endLine": 78,
+      "source": "memory",
+      "snippet": "- BTC gatekeeper: LONG bias → cari LONG, SHORT bias → cari SHORT, NEUTRAL → skip ### Bug yang sudah difix - Grace period: bot tidak boleh close sebelum 5 menit hold - Stop hour: sudah fix ke 23:00 WIB (sebelumnya 17:00 menyebabkan bot exit otomatis) - State sync: entry manual lewat trade.py harus sync ke scalp_state.json ### Kondisi market malam ini (21:00-22:00 WIB) - BTC turun dari $81K ke ~$79K sore hari - Semua altcoin RSI di bawah 40 (oversold) - Volume sangat sepi - BTC bias: SHORT - Bot sedang OFF (dimatikan Dim) ### Keputusan Dim - Semua bot dan sinyal dimatikan jam ~22:00 WIB - Dim minta cari setup SHORT terakhir → APT SHORT masuk, kena SL - Dim minta carikan setup lagi sebelum t",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4013982683420181,
+      "maxScore": 0.4013982683420181,
+      "firstRecalledAt": "2026-05-16T23:26:34.163Z",
+      "lastRecalledAt": "2026-05-16T23:26:34.163Z",
+      "queryHashes": [
+        "32bf6a9db649"
+      ],
+      "recallDays": [
+        "2026-05-17"
+      ],
+      "conceptTags": [
+        "trade.py",
+        "scalp-state.json",
+        "00-22",
+        "btc",
+        "gatekeeper",
+        "bias",
+        "cari",
+        "neutral"
+      ]
+    }
+  }
+}

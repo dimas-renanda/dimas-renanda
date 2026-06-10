@@ -1,0 +1,41 @@
+Gemini Prompts — Ara & Dimas (Classic Emerald + Champagne — Intimate, Siang)
+
+1) Entrance photoreal edit — full room (use venue photos as reference)
+
+Prompt:
+"Transform the attached venue photo(s) into a photoreal semi‑standing wedding reception in classic emerald + champagne with an intimate daytime mood. Remove all round dining seat clusters except for three round VIP tables near the stage and remove navy chair covers; replace them with champagne‑brown chair covers. Add a central polished dark oak dancefloor (approximately 7m x 6m) directly in front of the existing stage. Stage: 1.2–1.5m high with full‑height emerald velvet backdrop (Emerald #0D5B3A) edged with delicate warm gold filigree trim and a low lush cream garden‑rose + eucalyptus garland across the front. Ceiling: add soft cream/champagne drapery panels flowing toward center. Above the dancefloor, install three clustered crystal chandeliers at staggered heights with warm golden light (but keep overall look daylight‑balanced). Perimeter: place 12 white‑marble top cocktail tables with gold bases arranged around the dancefloor, each with a small candle cluster and a single eucalyptus sprig. Lounge: 4 emerald velvet 2‑seat sofas with gold coffee tables in two clusters behind the dancefloor. Bar: sleek backlit champagne marble bar on the right side with illuminated champagne shelves and bartenders. Include photobooth/welcome near entrance with soft drapery and neon gold script: 'Ara & Dimas'. Lighting: daylight ambient through room + warm 3000K uplights on walls, soft stage spotlight, many candle clusters for intimacy. People: small groups mingling, some dancing, elegantly dressed (not crowded). Photo style: photoreal, cinematic warm color grade, soft film grain, realistic reflections & shadows, depth of field f/4, 35mm lens, natural entrance perspective. Palette: Emerald #0D5B3A; Champagne #ECDCB0; Ivory #F7F3EE; Gold #C39B61. DO NOT include navy covers, fluorescent blue lighting, silver metallic, or bright pastels."
+
+Negative prompt (Gemini negative field):
+"no navy chair covers, no plastic/folding chairs, no silver metallic, avoid saturated yellow/orange cast, no harsh blue light, no crowded banquet seating."
+
+Suggested generation parameters:
+- Aspect ratio: 16:9 (3840x2160)
+- Camera: 35mm, f/4
+- Style: photorealistic, cinematic warm color grade
+- Steps/quality: high, 4 variations → pick best → upscale
+
+
+2) Overhead floorplan render — vendor layout & scale (top-down)
+
+Prompt:
+"Generate a photoreal overhead layout rendering of the attached ballroom converted to a semi‑standing wedding reception (intimate daytime). Show stage at top, central dancefloor (7m x 6m) centered in front of stage, three round VIP tables (dining) located near the stage (left/center/right), 12 cocktail tables arranged evenly around the dancefloor perimeter, 4 lounge clusters (emerald sofas) positioned rear left & right, bar on the right side, two food/service stations at the back, and a clear entrance walkway from bottom center to stage. Include scale measurements in meters, a legend (dancefloor, lounge, cocktail table, bar, photobooth), and a soft color‑coded overlay using Emerald #0D5B3A (lounge), Champagne #ECDCB0 (service), Ivory #F7F3EE (aisles), Gold #C39B61 (highlights). Style: clean architectural photoreal floorplan with readable labels and simple furniture icons, top‑down orthographic camera. Export at high resolution suitable for print."
+
+Params:
+- Aspect ratio: 4:3 or square
+- High resolution, readable labels
+
+
+3) Stage view — romantic couple / detail (from stage looking out)
+
+Prompt:
+"Render a wide photoreal scene from the stage looking out over the semi‑standing reception. Show polished dark oak dancefloor, guests mingling at cocktail tables, emerald velvet lounge in the foreground, clustered crystal chandeliers above, and champagne‑brown chair covers on the three VIP tables. Emphasize depth with bokeh edges, golden reflections, and a couple silhouette center dance. Floral: cream garden roses, peonies, ranunculus with dark green foliage accents on stage and small table clusters. Lighting: warm cinematic grade balanced with daylight (soft highlights). Camera: 50mm lens, f/2.8, soft film grain. Palette: Emerald #0D5B3A, Champagne #ECDCB0, Ivory #F7F3EE, Gold #C39B61."
+
+
+Workflow tips for Gemini:
+1. Upload both venue photos (overall ballroom + drapery entry) as reference images in the edit/transform tool.
+2. Generate 4 variations, choose best, then use inpainting/local edits for tweaks (move sofa, adjust drapery). 
+3. Produce overhead separately to hand vendors as a printable layout.
+4. Export photoreal images at 3840x2160 PNG and floorplan as PDF/PNG for print.
+
+
+End of file.

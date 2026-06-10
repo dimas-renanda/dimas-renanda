@@ -1,0 +1,8 @@
+{
+  "swatches": [
+    {"name": "Emerald", "hex": "#0D5B3A", "usage": "~30%"},
+    {"name": "Champagne", "hex": "#ECDCB0", "usage": "~35%"},
+    {"name": "Ivory", "hex": "#F7F3EE", "usage": "~25%"},
+    {"name": "Warm Gold", "hex": "#C39B61", "usage": "~10%"}
+  ]
+}

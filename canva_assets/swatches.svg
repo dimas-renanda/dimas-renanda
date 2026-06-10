@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <rect x="0" y="0" width="200" height="200" fill="#0D5B3A" />
+  <rect x="200" y="0" width="200" height="200" fill="#ECDCB0" />
+  <rect x="400" y="0" width="200" height="200" fill="#F7F3EE" />
+  <rect x="600" y="0" width="200" height="200" fill="#C39B61" />
+  <g font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#ffffff">
+    <text x="10" y="190">Emerald #0D5B3A (~30%)</text>
+    <text x="210" y="190" fill="#000000">Champagne #ECDCB0 (~35%)</text>
+    <text x="410" y="190" fill="#000000">Ivory #F7F3EE (~25%)</text>
+    <text x="610" y="190">Gold #C39B61 (~10%)</text>
+  </g>
+</svg>
